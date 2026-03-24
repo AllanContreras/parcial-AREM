@@ -30,3 +30,9 @@ ya se creo la instancia
 <img width="1903" height="835" alt="image" src="https://github.com/user-attachments/assets/2aaf26bb-4f91-4ec5-b702-367bb786ae68" />
 
 
+nos concetamos por medio de SSH CLIENTE  : ssh -i "key-lucas.pem" ec2-user@ec2-54-89-240-196.compute-1.amazonaws.com
+
+<img width="1129" height="365" alt="image" src="https://github.com/user-attachments/assets/91e83f14-8b94-4f2f-b098-920a7325cfc2" />
+
+
+
