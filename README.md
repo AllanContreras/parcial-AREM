@@ -9,5 +9,10 @@ mvn spring-boot:run
 
 <img width="1145" height="832" alt="image" src="https://github.com/user-attachments/assets/671aba03-c5ac-4d78-8958-3d5ae8ac45fd" />
 
+http://localhost:8080/lucasseq?value=13
+
+
+<img width="1079" height="361" alt="image" src="https://github.com/user-attachments/assets/1d35639c-58eb-49c9-9656-ba8893f2f028" />
+
 
 
