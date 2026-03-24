@@ -63,5 +63,6 @@ Por ultimo detenemos todo para que no nos consuma creditos
 
 <img width="1657" height="427" alt="image" src="https://github.com/user-attachments/assets/a4c4d1f7-cd4c-45fe-b27d-212fd7be7699" />
 
+<img width="1821" height="817" alt="image" src="https://github.com/user-attachments/assets/9052a168-5a9f-4517-92e7-0158d762acc0" />
 
 
