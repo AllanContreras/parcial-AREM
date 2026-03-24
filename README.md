@@ -41,6 +41,11 @@ java -version
 <img width="1203" height="903" alt="image" src="https://github.com/user-attachments/assets/b458a6ca-343f-4edc-84bc-838c53cb43e2" />
 <img width="1344" height="932" alt="image" src="https://github.com/user-attachments/assets/69a2aedc-8ba1-43de-bb1c-ed90c72a009f" />
 
+sudo dnf install -y maven
+mvn -version
+
+<img width="1130" height="897" alt="image" src="https://github.com/user-attachments/assets/a8ae1729-2069-43a2-87ee-f4e45c75d859" />
+
 
 
 
