@@ -50,6 +50,11 @@ mvn -version
 ya pudimos correrlo 
 <img width="1389" height="917" alt="image" src="https://github.com/user-attachments/assets/4dc17703-8978-4c82-9b2c-eff0cc72fa1b" />
 
+lo probamos en el navegador 
+http://ec2-54-89-240-196.compute-1.amazonaws.com:8080/lucasseq?value=13
+<img width="1015" height="331" alt="image" src="https://github.com/user-attachments/assets/56754eac-d44f-4f43-8c66-0e6822f3d7d4" />
+
+
 
 
 
