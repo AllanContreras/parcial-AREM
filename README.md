@@ -47,6 +47,11 @@ mvn -version
 <img width="1130" height="897" alt="image" src="https://github.com/user-attachments/assets/a8ae1729-2069-43a2-87ee-f4e45c75d859" />
 
 
+ya pudimos correrlo 
+<img width="1389" height="917" alt="image" src="https://github.com/user-attachments/assets/4dc17703-8978-4c82-9b2c-eff0cc72fa1b" />
+
+
+
 
 
 
