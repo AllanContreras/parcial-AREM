@@ -23,3 +23,6 @@ creamos la instancia
 creamos la llave 
 <img width="1915" height="767" alt="image" src="https://github.com/user-attachments/assets/e8caaa5a-04c6-4214-a45a-4d2b774611f9" />
 
+las guadamos dentro del proyecto 
+<img width="1232" height="689" alt="image" src="https://github.com/user-attachments/assets/5e6c77a1-f48a-4358-978c-ede7543a479a" />
+
