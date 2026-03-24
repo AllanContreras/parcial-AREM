@@ -56,7 +56,7 @@ http://ec2-54-89-240-196.compute-1.amazonaws.com:8080/lucasseq?value=13
 
 
 
-Link del video de evidencia : https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/allan_contreras-r_mail_escuelaing_edu_co/IQCs2O5MxqyWTY3qBUYWUAuQAWJ55T_n9CmZxhYB7bLwAZc?e=7FiE4w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link del video de evidencia podemos evidenciar que el proyecto correio con exito y que ademas se desplego de manera exitosa con ec2 y lo corremos despues se hace pruebas con diferentes valores y vemos como se crea una lista diferente para cada valor  : https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/allan_contreras-r_mail_escuelaing_edu_co/IQCs2O5MxqyWTY3qBUYWUAuQAWJ55T_n9CmZxhYB7bLwAZc?e=7FiE4w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
