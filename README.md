@@ -34,5 +34,15 @@ nos concetamos por medio de SSH CLIENTE  : ssh -i "key-lucas.pem" ec2-user@ec2-5
 
 <img width="1129" height="365" alt="image" src="https://github.com/user-attachments/assets/91e83f14-8b94-4f2f-b098-920a7325cfc2" />
 
+Ahora para poder correrlo vamos a tener que hacer unas instalacciones como en los laboratorios anteriores
+sudo dnf update -y
+sudo dnf install -y java-17-amazon-corretto-devel
+java -version
+<img width="1203" height="903" alt="image" src="https://github.com/user-attachments/assets/b458a6ca-343f-4edc-84bc-838c53cb43e2" />
+<img width="1344" height="932" alt="image" src="https://github.com/user-attachments/assets/69a2aedc-8ba1-43de-bb1c-ed90c72a009f" />
+
+
+
+
 
 
