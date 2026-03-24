@@ -16,4 +16,6 @@ http://localhost:8080/lucasseq?value=13
 
 vamos a intentarlo lanzar
 <img width="1846" height="969" alt="image" src="https://github.com/user-attachments/assets/fed0bb55-0b32-4d0f-ac23-5af9da1d797f" />
+creamos la instancia 
 
+<img width="1516" height="928" alt="image" src="https://github.com/user-attachments/assets/e2cae3af-b81d-4a35-88b9-43eafa70213a" />
