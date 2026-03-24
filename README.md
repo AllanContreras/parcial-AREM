@@ -19,3 +19,7 @@ vamos a intentarlo lanzar
 creamos la instancia 
 
 <img width="1516" height="928" alt="image" src="https://github.com/user-attachments/assets/e2cae3af-b81d-4a35-88b9-43eafa70213a" />
+
+creamos la llave 
+<img width="1915" height="767" alt="image" src="https://github.com/user-attachments/assets/e8caaa5a-04c6-4214-a45a-4d2b774611f9" />
+
