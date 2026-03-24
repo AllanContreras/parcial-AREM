@@ -5,3 +5,9 @@ mvn clean package
 <img width="1014" height="464" alt="image" src="https://github.com/user-attachments/assets/244935c8-b64b-4d6f-86eb-776cb0c90590" />
 
 
+mvn spring-boot:run
+
+<img width="1145" height="832" alt="image" src="https://github.com/user-attachments/assets/671aba03-c5ac-4d78-8958-3d5ae8ac45fd" />
+
+
+
